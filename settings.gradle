@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Mobile Tracker"
+rootProject.name = "LOKATE"
 include ':app'
